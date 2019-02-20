@@ -1,1 +1,1 @@
-# python-webscraping-workshop
+# Python web-scraping workshop
