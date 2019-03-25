@@ -23,15 +23,15 @@ In this course you will learn the basics of Python programm as well as the detai
 <tbody>
 <tr>
 <td>Phone:</td>
-<td><span>+49 761 203-2395&nbsp;</span></td>
+<td><span>+49 761 203-XXXX&nbsp;</span></td>
 </tr>
 <tr>
 <td>Fax:</td>
-<td><span>+49 761 203-2395&nbsp;</span></td>
+<td><span>+49 761 203-XXXX&nbsp;</span></td>
 </tr>
 <tr>
 <td>E-Mail:</td>
-<td>markus.rosenfelder@is.uni-freiburg.de</td>
+<td>markus.rosenfelder at is.uni-freiburg.de</td>
 </tr>
 </tbody>
 </table>
