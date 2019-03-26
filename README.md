@@ -1,4 +1,4 @@
-![University of Freiburg - Chair of Information Systems](../is_logo_UFR.png)
+![University of Freiburg - Chair of Information Systems](./is_logo_UFR.png)
 
 # Python Web-Scraping Workshop
 
