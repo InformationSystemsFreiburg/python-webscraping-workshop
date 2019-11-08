@@ -3,7 +3,7 @@
 # Python Web-Scraping Workshop
 
 ## About this course
-In this course you will learn the basics of Python programm as well as the details on how to programm a web-scraper. A web-scraper is a small programm that automatically opens websites and searches for specified data. This course is splitted into three main parts:
+In this course you will learn the basics of Python programming as well as the details on how to programm a web-scraper. A web-scraper is a small programm that automatically opens websites and searches for specified data. This course is splitted into three main parts:
 - Introduction to Python Programming
 - Introduction to Web-Scraping with Python
 - Exercises
