@@ -31,7 +31,7 @@ MarkupSafe==1.1.1
 matplotlib==3.0.3
 mistune==2.0.3
 munch==2.3.2
-nbconvert==6.3.0
+nbconvert==6.5.1
 nbformat==4.4.0
 notebook>=6.1.5
 numpy==1.22.0
